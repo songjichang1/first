@@ -1,5 +1,5 @@
 #JAVA-Project-Library 
-자바+도서관프로그램
+Java+Oracle도서관프로그램
 ***
 ## :computer: 프로젝트 소개
 - **도서관에서 회원(추가,수정,삭제,조회), 도서(추가,수정,삭제,조회), 대여(대여,반납,조회)**
@@ -86,4 +86,3 @@ public int overLapID(int userID, int bookID) throws SQLException {
 
 ``` 
  - 대여를 하기 전 중복된 도서를 대여를 할 수 없기 때문에 DB에서 확인 후 대여(가능,불가능) 여부 확인 
-
